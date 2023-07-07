@@ -3,11 +3,11 @@
  
  ![photo](https://images.pexels.com/photos/12379756/pexels-photo-12379756.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
     
-### Overview
+## Overview
 
 Our goal is to analyze house sales data in a northwestern county and develop a predictive model to estimate house prices. We will be using multiple linear regression modeling techniques to gain insights into the factors that influence house prices and provide recommendations to stakeholders in the real estate industry.
 
-### Business Understanding
+## Business Understanding
 
 House sales began in 1890s in the United States and since then its been growing all over the world and agencies started to form to enhance and ease the house selling process.Last year the revenue was estimated to be $4.25M with prospects of growth as time goes by. House sales are mainly influenced by the number of bedrooms, bathrooms, the year built, square footage and whether renovations are done or not among other factors.
 
@@ -17,7 +17,7 @@ In this case the Northwest agencies aim to address the need of providing homeown
 
 We will be utilizing the King County House Sales datasets which contains information on house sales, including features such as price, number of bedrooms and bathrooms, square footage, and year built. By thoroughly understanding and analyzing the dataset and its column descriptions, we can identify the relevant features to include in our analysis and modeling process
 
-### Modelling
+## Modelling
 
 To analyze the dataset and gain insights, we will employ multiple linear regression modeling which will allow us to explore the relationships between the house features and house prices. By fitting the regression model to the data, we can estimate the coefficients of the features and assess their impact on house prices.
 
