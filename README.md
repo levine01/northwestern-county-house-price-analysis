@@ -35,9 +35,7 @@ Through iterative modeling, we will refine our approach and build multiple regre
 
 ## Regression Results
 
-After performing multiple linear regression modeling on the house sales data, we obtained the following results:
-
- Model Performance: The final regression model demonstrated a strong performance in predicting house prices. The coefficient of determination (R-squared) for the model was 0.75, indicating that approximately 75% of the variability in house prices can be explained by the selected features.
+Model Performance: The final regression model demonstrated a strong performance in predicting house prices. The coefficient of determination (R-squared) for the model was 0.64, indicating that approximately 64% of the variability in house prices can be explained by the selected features.
 
 Feature Coefficients: The coefficients of the selected features provide insights into their impact on house prices. The 'sqft_living' feature had the highest coefficient, indicating that for every unit increase in square footage, the house price is estimated to increase by a certain value. Similarly, the 'bedrooms' and 'bathrooms' features also showed significant positive coefficients, suggesting that more bedrooms and bathrooms positively influence the house prices.
 
