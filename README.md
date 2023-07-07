@@ -25,7 +25,7 @@ The dataset consists of a substantial number of records, with each record repres
 
 The features included in the analysis are selected based on their relevance and potential impact on house prices. Features such as the number of bedrooms and bathrooms, square footage, and location are commonly considered important factors affecting house prices. By including these features in the analysis, we aim to capture the significant aspects that contribute to the variation in house prices and provide valuable insights to homeowners seeking advice on home renovations.
 
-Even though this dataset provides a rich source of information, its also has its limitations which include absence features like that could influence house prices  proximity to public transportation, missing data in certain columns, and the inherent complexity of real estate market dynamics that cannot be fully captured by the dataset alone.
+Even though this dataset provides a rich source of information, it also has limitations which include absence features that could also influence house prices  such as proximity to public transportation, missing data in certain columns, and the inherent complexity of real estate market dynamics that cannot be fully captured by the dataset alone.
 
 ## Modelling
 
