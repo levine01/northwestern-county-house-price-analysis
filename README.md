@@ -37,13 +37,13 @@ Through iterative modeling, we will refine our approach and build multiple regre
 
 We identified that sqft_living and bathrooms have the strongest relationship with price.
 
-For every unit increase in 'sqft_living', the predicted sale price increases by a certain coefficient value. For example, if the coefficient for 'sqft_living' is 100, it means that for every additional square foot of living area, the sale price is expected to increase by $100.
+For every unit increase in sqft_living, the predicted sale price increases by a certain coefficient value. For example, if the coefficient for 'sqft_living' is 100, it means that for every additional square foot of living area, the sale price is expected to increase by $100.
 
 Similarly, for every additional bathroom in the property, the predicted sale price increases by a specific coefficient value. For instance, if the coefficient for 'bathrooms' is 50, it indicates that each additional bathroom is associated with a $50 increase in the sale price. By identifying the strong relationships between these features and sale prices, stakeholders can gain valuable insights into the factors that significantly influence property values.
 
-For buyers and sellers, understanding the impact of 'sqft_living' and 'bathrooms' on sale prices can help in making informed decisions. Buyers can consider the trade-off between the size of the living area and the price they are willing to pay. Sellers, on the other hand, can leverage this information to determine an appropriate listing price for their property based on its size and bathroom count.
+For buyers and sellers, understanding the impact of sqft_living and bathrooms on sale prices can help in making informed decisions. Buyers can consider the trade-off between the size of the living area and the price they are willing to pay. Sellers, on the other hand, can leverage this information to determine an appropriate listing price for their property based on its size and bathroom count.
 
-Property developers and investors can also benefit from these results. Developers can focus on constructing properties with larger living areas and more bathrooms to cater to the demand for such features, as they are likely to command higher sale prices. Investors can consider these features when evaluating potential investment properties, as they play a significant role in determining the property's value appreciation over time.
+Developers can focus on constructing properties with larger living areas and more bathrooms to cater to the demand, as they are likely to command higher sale prices. Investors can consider these features when evaluating potential investment properties, as they play a significant role in determining the property's value appreciation over time.
 
 Buyers consider the impact of living area and bathroom count on the sale price when searching for properties. Determine the desired size and number of bathrooms based on personal preferences and budget constraints. Sellers: Take into account the size of the living area and the number of bathrooms when pricing the property. Highlight these features in the property listing to attract potential buyers. Developers: Focus on constructing properties with larger living areas and multiple bathrooms to appeal to buyers looking for spacious and well-equipped homes. Investors: Consider the influence of living area and bathroom count when evaluating investment opportunities. Properties with larger living areas and more bathrooms may have higher potential for value appreciation.
 
@@ -55,3 +55,7 @@ Based on the regression results, we recommend that stakeholders in the real esta
 It is important to note that while our model provides a good understanding of the relationships between the features and house prices, there may be other unaccounted factors influencing the market dynamics.The model assumes a linear relationship, and non-linear effects or interactions between features might exist. Therefore, further analysis and consideration of domain knowledge are recommended to complement the findings and ensure accurate decision-making.
 
 By leveraging the regression results and the insights gained from our modeling process, stakeholders can make informed decisions and offer valuable guidance to homeowners in their pursuit of increasing the estimated value of their properties.
+
+## Presentation
+
+Presentation slides found ![here](https://www.canva.com/design/DAFoAylRMMw/pmPacRR1dwdNC3NAzPTuxg/edit?utm_content=DAFoAylRMMw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
