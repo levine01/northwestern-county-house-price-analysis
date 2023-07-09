@@ -25,7 +25,7 @@ The dataset consists of a substantial number of records, with each record repres
 
 The features included in the analysis are selected based on their relevance and potential impact on house prices. Features such as the number of bedrooms and bathrooms, square footage, and location are commonly considered important factors affecting house prices. By including these features in the analysis, we aim to capture the significant aspects that contribute to the variation in house prices and provide valuable insights to homeowners seeking advice on home renovations.
 
-Even though this dataset provides a rich source of information, it also has limitations which include absence features that could also influence house prices  such as proximity to public transportation, missing data in certain columns, and the inherent complexity of real estate market dynamics that cannot be fully captured by the dataset alone.
+Even though this dataset provides a rich source of information, it also has limitations which include absence features that could also influence house prices  such as proximity to public transportation, missing data in certain columns, outliers, and the inherent complexity of real estate market dynamics that cannot be fully captured by the dataset alone.
 
 ## Modelling
 
@@ -48,8 +48,7 @@ Property developers and investors can also benefit from these results. Developer
 Buyers consider the impact of living area and bathroom count on the sale price when searching for properties. Determine the desired size and number of bathrooms based on personal preferences and budget constraints. Sellers: Take into account the size of the living area and the number of bathrooms when pricing the property. Highlight these features in the property listing to attract potential buyers. Developers: Focus on constructing properties with larger living areas and multiple bathrooms to appeal to buyers looking for spacious and well-equipped homes. Investors: Consider the influence of living area and bathroom count when evaluating investment opportunities. Properties with larger living areas and more bathrooms may have higher potential for value appreciation.
 
 ## Conclusion
-
-In conclusion, our analysis using multiple linear regression modeling has provided valuable insights into the factors influencing house prices in the northwestern county. The selected features, such as square footage, number of bedrooms, and number of bathrooms, have been identified as significant contributors to house price variations.
+Our analysis using multiple linear regression modeling has provided valuable insights into the factors influencing house prices in the northwestern county. The selected features, such as square footage, number of bedrooms, and number of bathrooms, have been identified as significant contributors to house price variations.
 
 Based on the regression results, we recommend that stakeholders in the real estate industry focus on these influential factors when providing advice to homeowners regarding home renovations. Increasing the square footage, adding more bedrooms or bathrooms, and considering other factors that positively impact house prices can potentially enhance the estimated value of properties.
 
