@@ -19,7 +19,7 @@ This project addresses the real-world problem faced by homeowners who seek guida
 
 ##  Data Understanding
 
-The data used for this project is the King County House Sales dataset. The dataset contains information on house sales in a northwestern county, including various features such as the number of bedrooms and bathrooms, square footage, location, and other relevant details.The dataset is suitable for the project as it provides comprehensive information about house sales and house features, which allows for analysis and modeling to understand the relationship between these features and the sale prices of the houses.
+The data used for this project is the King County House Sales dataset it contains information on house sales in a northwestern county, including various features such as the number of bedrooms and bathrooms, square footage, location, and other relevant details.The dataset is suitable for the project as it provides comprehensive information about house sales and house features, which allows for analysis and modeling to understand the relationship between these features and the sale prices of the houses.
 
 The dataset consists of a substantial number of records, with each record representing a house sale. It includes information on multiple features, such as bedrooms, bathrooms, square footage, and more. To gain insights into the dataset, we will present descriptive statistics for all the features used in the analysis. These statistics will include measures of central tendency  and dispersion to provide an overview of the distribution and variability of the data.
 
@@ -44,6 +44,7 @@ Developers can focus on constructing properties with larger living areas, more b
 Buyers consider the impact of living area and bathroom count on the sale price when searching for properties. Sellers take into account the size of the living area and the number of bathrooms when pricing the property. Developers on the other hand ocus on constructing properties with larger living areas and multiple bathrooms to appeal to buyers looking for spacious and well-equipped homes. Investors like to onsider the influence of living area and bathroom count when evaluating investment opportunities. Properties with larger living areas and more bathrooms may have higher potential for value appreciation.
 
 ## Conclusion
+
 Square footage, number of bedrooms, and number of bathrooms, have been identified as significant contributors to house price variations.
 Based on the regression results, we recommend that stakeholders in the real estate industry focus on these influential factors when providing advice to homeowners regarding home renovations. Increasing the square footage, adding more bedrooms or bathrooms, and considering other factors that positively impact house prices can potentially enhance the estimated value of properties.
 
