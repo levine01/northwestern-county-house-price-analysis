@@ -58,4 +58,4 @@ By leveraging the regression results and the insights gained from our modeling p
 
 ## Presentation
 
-Presentation slides found ![here](https://www.canva.com/design/DAFoAylRMMw/pmPacRR1dwdNC3NAzPTuxg/edit?utm_content=DAFoAylRMMw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Presentation slides found [here](https://www.canva.com/design/DAFoAylRMMw/pmPacRR1dwdNC3NAzPTuxg/edit?utm_content=DAFoAylRMMw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
