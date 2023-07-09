@@ -1,7 +1,7 @@
 
 # House Sales Analysis in NorthWestern county
  
- ![photo](https://images.pexels.com/photos/12379756/pexels-photo-12379756.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
+ ![photo](https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600)
     
 ## Overview
 
